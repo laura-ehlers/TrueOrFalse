@@ -1,0 +1,15 @@
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.csproj.AssemblyReference.cache
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.AssemblyInfoInputs.cache
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.AssemblyInfo.cs
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.csproj.CoreCompileInputs.cache
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/bin/Debug/net7.0/TrueOrFalse
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/bin/Debug/net7.0/TrueOrFalse.deps.json
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/bin/Debug/net7.0/TrueOrFalse.runtimeconfig.json
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/bin/Debug/net7.0/TrueOrFalse.dll
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/bin/Debug/net7.0/TrueOrFalse.pdb
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.dll
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/refint/TrueOrFalse.dll
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.pdb
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.genruntimeconfig.cache
+/Users/lauraschumacher/Documents/c#/TrueOrFalse/obj/Debug/net7.0/ref/TrueOrFalse.dll
